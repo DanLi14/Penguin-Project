@@ -6,8 +6,6 @@ const pAge = document.querySelector('#age');
 const pHappyFeet = document.querySelector('#happyFeet');
 const submitBtn = document.querySelector('#submitBtn');
 
-console.log(happyFeet.checked);
-
 //Functions to handle post request
 const postLogic = (obj) => {
   fetch('http://localhost:8083/createPenguin', {
