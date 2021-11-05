@@ -12,8 +12,8 @@ These instructions will get you a copy of the project up and running on your loc
 * Optional but recommended - visual studio code (IDE) with live server extension
 * Optional but recommended - google chrome browser 
 
+### Installing
 
-**MySQL Server**
 **Java**
 Download and install the corresponding java package which is compatible with your preferred operating system https://www.java.com/en/download/manual.jsp
 
